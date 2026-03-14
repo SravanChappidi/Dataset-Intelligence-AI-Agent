@@ -1,0 +1,7 @@
+pandas
+groq
+streamlit
+fastapi
+python-dotenv
+openpyxl
+python-multipart
