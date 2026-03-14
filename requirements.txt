@@ -3,6 +3,7 @@ pandas>=2.0.0
 requests
 groq
 openpyxl
+plotly
 python-multipart
 fastapi
 uvicorn
