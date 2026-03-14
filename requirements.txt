@@ -1,7 +1,8 @@
-pandas
+streamlit>=1.42.0
+pandas>=2.0.0
+requests
 groq
-streamlit
-fastapi
-python-dotenv
 openpyxl
 python-multipart
+fastapi
+uvicorn
